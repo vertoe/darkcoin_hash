@@ -28,6 +28,6 @@ Credits
 -------
 
 * Module written by @chaeplin https://github.com/chaeplin/xcoin-hash
-* Module maintained by @eduffield https://github.com/dashproject/xcoin-hash
+* Module maintained by @eduffield https://github.com/darkcoinproject/xcoin-hash
 * Module maintained by @flare https://github.com/nightlydash/xcoin-hash
-* Module maintained by @vertoe https://github.com/vertoe/dash_hash
+* Module maintained by @vertoe https://github.com/vertoe/darkcoin_hash
